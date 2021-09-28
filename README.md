@@ -1,0 +1,1 @@
+Please find the documentation for how to use this API [here](https://documenter.getpostman.com/view/9560786/UUxzBnmd)
